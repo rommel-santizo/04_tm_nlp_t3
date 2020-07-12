@@ -15,11 +15,11 @@ Ejecución:
 ___
 Denominación de Topicos
 ------------
-1. Gobierno
-2. Tecnologia
-3. Problemas tecnicos
-4. Sistemas
-5. Conflicto internacional
+1. Creencias de las Personas
+2. Problemas con el Sistema
+3. Gobierno
+4. Programas y Aplicaciones
+5. Conflictos Internacional
 ---
 Project Organization
 ------------
