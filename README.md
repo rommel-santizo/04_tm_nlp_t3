@@ -1,6 +1,7 @@
-Tarea 4 - Topics Modeling
+Tarea 3 - Topics Modeling
 ==============================
-
+Rommel Santizo - 91071
+---
 Esta tarea identifica 5 Topics en un set de datos json
 Y genera un modelo para predecir a partir un input a que Topic pertenece
 ___
