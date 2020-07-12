@@ -15,7 +15,6 @@ other_texts = [
 
 def predict_model(documents: List[List[str]]):
     # DICCIONARIO
-
     with open('../../models/id2word.pkl', 'rb') as input_file:
         id2word = pickle.load(input_file)
     logging.info('READ id2word.pkl')
